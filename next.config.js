@@ -12,3 +12,4 @@ module.exports = {
   // ... other Next.js configurations
   output: 'export',
 };
+
